@@ -10,15 +10,13 @@ author_profile: true
 
 2. Warehouse-Retailer Network Planning under Partial Flexibility Strategy to Cope with Demand Surges: A Sample-based Approach. (with Qihuan Zhang and Min Huang)
 
-3. Capacity Planning to Cope with  Demand Surges in Fourth-Party Logistics Networks under Chance-Constrained Service Levels. Submitted. (with Min Huang and Yunan Liu)
+3. Capacity Planning to Cope with  Demand Surges in Fourth-Party Logistics Networks under Chance-Constrained Service Levels. _Submitted_. (with Min Huang and Yunan Liu)
 
-4. Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price based Decomposition Algorithm. Submitted. (with Min Huang and Yuxin Zhang)
+4. Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price based Decomposition Algorithm. _Submitted_. (with Min Huang and Yuxin Zhang)
 
 **Journal Papers**
 
-1. xxx
-
-2. xxx
+1. Zhang, Y., Gao, Z., Huang, M.*, **Jiang, S.**, Yin, M., & Fang, S. C. (2022). Multi-period distribution network design with boundedly rational customers for the service-oriented manufacturing supply chain: a 4PL perspective. _International Journal of Production Research_, 1-20. [[PDF]](/files/paper1.pdf)
 
 **Conference Proceedings**
 
