@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /mypublications/
 
+  - title: "Teaching"
+    url: /myteaching/
+  
  # - title: "Talks"
  #   url: /talks/    
 
