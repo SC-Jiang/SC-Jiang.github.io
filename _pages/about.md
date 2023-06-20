@@ -26,14 +26,14 @@ My email: [neu_jiangsongchen@foxmail.com](mailto:neu_jiangsongchen@foxmail.com)
 
 1. **Jiang, S.**, Huang, M.*, Liu, Y., Zhang, Y., & Wang, X. Capacity Planning to Cope with  Demand Surges in Fourth-Party Logistics Networks under Chance-Constrained Service Levels. Submitted.
 
-2. **Jiang, S.**, Huang, M.*, Zhang, Y., Wang, X., & Fang, S. C. Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price Based Decomposition Algorithm. Submitted. [[SSRN preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4348801)
+2. **Jiang, S.**, Huang, M.*, Zhang, Y., Wang, X., & Fang, S. C. Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price Based Decomposition Algorithm. Submitted. [[SSRN Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4348801)
 
-3. Zhang, Y., Gao, Z., Huang, M.*, **Jiang, S.**, Yin, M., & Fang, S. C. (2022). Multi-period distribution network design with boundedly rational customers for the service-oriented manufacturing supply chain: a 4PL perspective. International Journal of Production Research, 1-20. [[pdf]](/files/paper1.pdf)
+3. Zhang, Y., Gao, Z., Huang, M.*, **Jiang, S.**, Yin, M., & Fang, S. C. (2022). Multi-period distribution network design with boundedly rational customers for the service-oriented manufacturing supply chain: a 4PL perspective. International Journal of Production Research, 1-20. [[PDF]](/files/paper1.pdf)
 
 **Awards**
 
-1. 2020.10, National scholarship for Postgraduates (MOE, China)
+1. 2020.10, National scholarship for Postgraduates. (MOE, China)
 
-2. 2018.09, Excellence Award of the National College Student Innovation and Entrepreneurship Training Program (MOE, China)
+2. 2018.09, Excellence Award of the National College Student Innovation and Entrepreneurship Training Program. (MOE, China)
 
-3. 2018.07, Silver Award of the Silicon Valley International Invention Festival (SVIIF)
+3. 2018.07, Silver Award of the Silicon Valley International Invention Festival (SVIIF).
