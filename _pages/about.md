@@ -32,8 +32,8 @@ My email: [neu_jiangsongchen@foxmail.com](mailto:neu_jiangsongchen@foxmail.com)
 
 **Awards**
 
-1. National scholarship for Postgraduates, 2020.10 (MOE, China)
+1. 2020.10, National scholarship for Postgraduates (MOE, China)
 
-2. Excellence Award of the National College Student Innovation and Entrepreneurship Training Program, 2018.09 (MOE, China)
+2. 2018.09, Excellence Award of the National College Student Innovation and Entrepreneurship Training Program (MOE, China)
 
-3. Silver Award of the Silicon Valley International Invention Festival (SVIIF), 2018.07
+3. 2018.07, Silver Award of the Silicon Valley International Invention Festival (SVIIF)
