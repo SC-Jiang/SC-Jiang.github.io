@@ -28,4 +28,4 @@ My email: [neu_jiangsongchen@foxmail.com](mailto:neu_jiangsongchen@foxmail.com)
 
 2. **Jiang, S.**, Huang, M.*, Zhang, Y., Wang, X., & Fang, S. C. Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price Based Decomposition Algorithm. Submitted. [[SSRN preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4348801)
 
-3. Zhang, Y., Gao, Z., Huang, M.*, **Jiang, S.**, Yin, M., & Fang, S. C. (2022). Multi-period distribution network design with boundedly rational customers for the service-oriented manufacturing supply chain: a 4PL perspective. International Journal of Production Research, 1-20. [[pdf]](/files/paper1.pdf)
+3. Zhang, Y., Gao, Z., Huang, M.*, **Jiang, S.**, Yin, M., & Fang, S. C. (2022). Multi-period distribution network design with boundedly rational customers for the service-oriented manufacturing supply chain: a 4PL perspective. International Journal of Production Research, 1-20. 
