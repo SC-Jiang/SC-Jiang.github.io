@@ -6,7 +6,7 @@ author_profile: true
 
 **Working Papers**
 
-1. Robust Base-stock Policy with Constant Lead Time to Cope with Demand Surges: Closed-Form Solutions and Applications. (with Chung Piaw TEO and Zhaolin Li)
+1. Robust Base-stock Policy with Constant Lead Time to Cope with Sums of Non-identically Distributed Random Demands: Closed-Form Solution and Application. (with Chung Piaw TEO, Zhaolin Li, and Sheng Bi)
 
 2. Warehouse-Retailer Network Planning under Partial Flexibility Strategy to Cope with Demand Surges: A Sample-based Approach. (with Qihuan Zhang and Min Huang)
 
