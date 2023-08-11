@@ -6,8 +6,8 @@ main:
   - title: "Teaching"
     url: /myteaching/
   
- # - title: "Talks"
- #   url: /talks/    
+  - title: "About Me"
+    url: /aboutme/    
 
  # - title: "Teaching"
  #  url: /teaching/    
