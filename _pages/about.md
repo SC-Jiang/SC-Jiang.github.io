@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Songchen Jiang. I'm a joint Ph.D. student in the College of Information Science and Engineering, Northeastern University (Supervisor: Prof. Min Huang) and the Institute of Operations Research and Analytics (IORA), National University of Singapore (Supervisor: Prof. Chung-Piaw TEO). My research interests include Data-driven optimization, Stochastic programming, Mixed-integer (linear) programming, and their applications in logistics and supply chain systems. [[CV]](/files/CV.pdf)
 
-My email: [neu_jiangsongchen@foxmail.com](mailto:neu_jiangsongchen@foxmail.com)
+My email: [sjiang@stumail.neu.edu.cn](mailto:sjiang@stumail.neu.edu.cn)
 
 **Education**
 
