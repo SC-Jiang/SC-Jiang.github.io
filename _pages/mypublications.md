@@ -20,4 +20,4 @@ author_profile: true
 
 **Conference Proceedings**
 
-1. **Jiang, S.**, Chen, J., Huang, M., Zhang, Y., & Yin, M. Fourth party logistics network design considering quantity discount. _Proceedings of the 2021 33rd Chinese Control and Decision Conference (CCDC)_.
+[[C1]]. **Jiang, S.**, Chen, J., Huang, M., Zhang, Y., & Yin, M. Fourth party logistics network design considering quantity discount. _Proceedings of the 2021 33rd Chinese Control and Decision Conference (CCDC)_.
