@@ -24,11 +24,12 @@ My email: [sjiang@stumail.neu.edu.cn](mailto:sjiang@stumail.neu.edu.cn)
 
 **Selected Publications**
 
-1. **Jiang, S.**, Huang, M.*, Liu, Y., Zhang, Y., & Wang, X. Capacity Planning to Cope with  Demand Surges in Fourth-Party Logistics Networks under Chance-Constrained Service Levels. Submitted.
+1. **Jiang, S.**, Huang, M.*, Liu, Y., Zhang, Y., & Wang, X. Capacity Planning to Cope with  Demand Surges in Fourth-Party Logistics Networks under Chance-Constrained Service Levels. under **Major Revision** at _Computers & Operations Research_.
 
-2. **Jiang, S.**, Huang, M.*, Zhang, Y., Wang, X., & Fang, S. C. Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price Based Decomposition Algorithm. Submitted. [[SSRN Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4348801)
+2. **Jiang, S.**, Huang, M.*, Zhang, Y., Wang, X., & Fang, S. C. Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price Based Decomposition Algorithm. _International
+Journal of Production Economics_, 2023, 269:109135. [[PDF]](https://doi.org/10.1016/j.ijpe.2023.109135)
 
-3. Zhang, Y., Gao, Z., Huang, M.*, **Jiang, S.**, Yin, M., & Fang, S. C. (2022). Multi-period distribution network design with boundedly rational customers for the service-oriented manufacturing supply chain: a 4PL perspective. _International Journal of Production Research_, 1-20. [[PDF]](/files/paper1.pdf)
+3. Zhang, Y., Gao, Z., Huang, M.*, **Jiang, S.**, Yin, M., & Fang, S. C. (2022). Multi-period distribution network design with boundedly rational customers for the service-oriented manufacturing supply chain: a 4PL perspective. _International Journal of Production Research_, 2022, 1-20. [[PDF]](https://www.tandfonline.com/doi/full/10.1080/00207543.2022.2140220)
 
 **Awards**
 
