@@ -19,11 +19,11 @@ $^{\*}$: corresponding author
 
 * [J2] [Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price based Decomposition Algorithm](https://doi.org/10.1016/j.ijpe.2023.109135) <br>
   **Jiang, S.**, Huang, M.*, Zhang, Y., Wang, X., & Fang, S. C. <br>
-  _International Journal of Production Economics_, 2023, 269:109135.
+  _International Journal of Production Economics_, 2023, 269: 109135.
 
 * [J1] [Multi-period distribution network design with boundedly rational customers for the service-oriented manufacturing supply chain: a 4PL perspective](https://www.tandfonline.com/doi/full/10.1080/00207543.2022.2140220) <br>
   Zhang, Y., Gao, Z., Huang, M.*, **Jiang, S.**, Yin, M., & Fang, S. C. <br>
-  _International Journal of Production Research_, 1-20.
+  _International Journal of Production Research_, 2022: 1-20. 
 
 Conference Proceedings
 -----
