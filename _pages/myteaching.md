@@ -4,8 +4,11 @@ title: "Teaching"
 author_profile: true
 ---
 
-1. Applied Stochastic Models and Queues (TA), Ph.D. Course (NEU Summer Course), Northeastern University, 2020.
+Teaching Assistant
+-----
 
-2. Theory of Production and Inventory (TA), Master Course, Northeastern University, 2021.
+* Applied Stochastic Models and Queues, Ph.D. Course (NEU Summer Course), Northeastern University, 2020.
+  
+* Theory of Production and Inventory, Master Course, Northeastern University, 2021.
 
-3. Introduction to System Engineering (TA), Undergraduate Course, Northeastern University, 2020-2022. 
+* Introduction to System Engineering, Undergraduate Course, Northeastern University, 2020-2022. 
