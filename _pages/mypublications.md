@@ -1,6 +1,6 @@
 ---
 permalink: /mypublications/
-title: "Publications"
+title: "Papers"
 author_profile: true
 ---
 
@@ -18,17 +18,16 @@ Journal Papers
 $^{\*}$: corresponding author
 
 * [J2] [Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price based Decomposition Algorithm](https://doi.org/10.1016/j.ijpe.2023.109135) <br>
-  **Jiang, S.**, Huang, M.*, Zhang, Y., Wang, X., & Fang, S. C. <br>
+  **Songchen Jiang**, Min Huang*, Yuxin Zhang, Xingwei Wang, & Shu-Cherng Fang. <br>
   _International Journal of Production Economics_, 2023, 269: 109135.
 
 * [J1] [Multi-period distribution network design with boundedly rational customers for the service-oriented manufacturing supply chain: a 4PL perspective](https://www.tandfonline.com/doi/full/10.1080/00207543.2022.2140220) <br>
-  Zhang, Y., Gao, Z., Huang, M.*, **Jiang, S.**, Yin, M., & Fang, S. C. <br>
+  Yuxin Zhang, Zheming Gao, Min Huang*, **Songchen Jiang**, Mingqiang Yin, & Shu-Cherng Fang. <br>
   _International Journal of Production Research_, 2022: 1-20. 
 
 Conference Proceedings
 -----
-$^{\*}$: corresponding author
 
 * [C1] [Fourth party logistics network design considering quantity discount](https://ieeexplore.ieee.org/document/9602597) <br>
-  **Jiang, S.**, Chen, J., Huang, M., Zhang, Y., & Yin, M. <br>
+  **Songchen Jiang**, Jin Chen, Min Huang, Yuxin Zhang, & Mingqiang Yin. <br>
   _Proceedings of the 2021 33rd Chinese Control and Decision Conference (CCDC)_.
