@@ -18,7 +18,7 @@ News
 Education
 -----
 
-**2022.12 - present:** Ph.D. student at the Institute of Operations Research and Analytics, National University of Singapore.
+**2022.12 - present:** Visiting Ph.D. student at the Institute of Operations Research and Analytics, National University of Singapore.
 
 **2021.09 - present:** Ph.D. student at the College of Information Science and Engineering, Northeastern University (CN).
 
