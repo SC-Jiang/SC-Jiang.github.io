@@ -11,13 +11,16 @@ Working Papers
 
 * Capacity Planning to Cope with  Demand Surges in Fourth-Party Logistics Networks under Chance-Constrained Service Levels. under **Major Revision** at _Computers & Operations Research_. (with Min Huang and Yunan Liu)
 
-* Multi-period fourth-party logistics network design from the viability perspective: A double-layer Q-learning based collaborative hyper-heuristic algorithm. under **Major Revision** at _International Journal of Production Research_. (with Min Huang and Yuxin Zhang)
 
 Journal Papers
 -----
 $^{\*}$: corresponding author
 
-* [J2] [Fourth-Party Logistics Network Design with Demand Surge: A Greedy Scenario-Reduction and Scenario-Price based Decomposition Algorithm](https://doi.org/10.1016/j.ijpe.2023.109135) <br>
+* [J3] [Multi-period fourth-party logistics network design from the viability perspective: A double-layer Q-learning based collaborative hyper-heuristic algorithm] <br>
+  Zhang, Y., Huang, M.*, Gao, Z., **Jiang, S.**, Fang, S.C., & Wang, X. <br>
+  _International Journal of Production Research_, forthcoming.
+
+* [J2] [Fourth-party logistics network design with demand surge: A greedy scenario-reduction and scenario-price based decomposition algorithm](https://doi.org/10.1016/j.ijpe.2023.109135) <br>
   **Jiang, S.**, Huang, M.*, Zhang, Y., Wang, X., & Fang, S.C. <br>
   _International Journal of Production Economics_, 2023, 269: 109135.
 
