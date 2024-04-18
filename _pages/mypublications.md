@@ -16,7 +16,7 @@ Journal Papers
 -----
 $^{\*}$: corresponding author
 
-* [J3] [Multi-period fourth-party logistics network design from the viability perspective: A double-layer Q-learning based collaborative hyper-heuristic algorithm]() <br>
+* [J3] [Multi-period fourth-party logistics network design from the viability perspective: A double-layer Q-learning based collaborative hyper-heuristic algorithm](https://doi.org/10.1080/00207543.2024.2339530) <br>
   Zhang, Y., Huang, M.*, Gao, Z., **Jiang, S.**, Fang, S.C., & Wang, X. <br>
   _International Journal of Production Research_, forthcoming.
 
