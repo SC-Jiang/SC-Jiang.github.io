@@ -6,9 +6,9 @@ author_profile: true
 
 Working Papers
 -----
-* [W2] Dual-Sourcing Made Easy: Distributionally Robust Optimization of Inventory System under Independent Demand. submitted to _Operations Research_. (with Zhaolin Li, Sheng Bi, Chung Piaw TEO, and Min Huang)
+* [W2] Dual-Sourcing Made Easy: Distributionally Robust Optimization of Inventory System under Independent Demand. under review at _Operations Research_. (with Zhaolin Li, Sheng Bi, Chung Piaw TEO, and Min Huang)
 
-* [W1] Capacity Planning to Cope with Demand Surges in Fourth-Party Logistics Networks under Chance-Constrained Service Levels. under **Major Revision** at _Computers & Operations Research_. (with Min Huang, Yunan Liu, Yuxin Zhang, and Xingwei Wang)
+* [W1] Capacity Planning to Cope with Demand Surges in Fourth-Party Logistics Networks under Chance-Constrained Service Levels. under **Minor revision** at _Computers & Operations Research_. (with Min Huang, Yunan Liu, Yuxin Zhang, and Xingwei Wang)
 
 
 Journal Papers
