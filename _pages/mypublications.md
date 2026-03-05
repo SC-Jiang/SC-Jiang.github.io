@@ -4,18 +4,15 @@ title: "Papers"
 author_profile: true
 ---
 
-Working Papers
------
-* [W1] Dual-Sourcing Made Easy: Distributionally Robust Optimization of Inventory System under Independent Demand. under _major revision_ at _Operations Research_. (with Zhaolin Li, Sheng Bi, Chung Piaw TEO, and Min Huang)
-
-* [W2] Advanced Delivery for Demand Surges: Front Warehouse Planning with Moments Information.
-
-
 Journal Papers
 -----
 $^{\*}$: corresponding author
 
-* [J6] Integrating Supply, Production, and Demand Uncertainties in Manufacturing Inventory Systems.  <br>
+* [J7] [Dual-Sourcing Made Easy: Distributionally Robust Optimization of Inventory System under Independent Demand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5020539).  <br>
+  **Jiang, S.**, Li, Z., Bi, S.*, Teo, CP., Huang, M. <br>
+ _Operations Research_, 2026. (Accepted)
+
+* [J6] [Integrating Supply, Production, and Demand Uncertainties in Manufacturing Inventory Systems](https://ieeexplore.ieee.org/abstract/document/11126965).  <br>
   Wang, G., Huang, M., Perera, S., **Jiang, S.**, Fang, S.C. <br>
  _IEEE Transactions on Engineering Management_, 2025. (Accepted)
 
