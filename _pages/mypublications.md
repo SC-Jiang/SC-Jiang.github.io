@@ -14,7 +14,7 @@ $^{\*}$: corresponding author
 
 * [J6] [Integrating Supply, Production, and Demand Uncertainties in Manufacturing Inventory Systems](https://ieeexplore.ieee.org/abstract/document/11126965).  <br>
   Wang, G., Huang, M., Perera, S., **Jiang, S.**, Fang, S.C. <br>
- _IEEE Transactions on Engineering Management_, 2025. (Accepted)
+ _IEEE Transactions on Engineering Management_, 2025.
 
 * [J5] [Mathematical modeling and optimization of multi-period fourth-party logistics network design problems with customer satisfaction-sensitive demand](https://doi.org/10.1016/j.eswa.2025.127219).  <br>
   Zhang, Y., Huang, M.*, Fu, Y., **Jiang, S.**, Wang, X., Fang, S.C. <br>
