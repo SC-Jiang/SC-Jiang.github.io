@@ -7,6 +7,8 @@ author_profile: true
 Some Awards
 -----
 
+* 2025.12, The ISCOM 2025 Best Conference Paper. 
+
 * 2025.07, The 2025 CSAMSE Annual Conference Best Practice Award, Third Prize.
 
 * 2020.10, National scholarship for Postgraduates. (MOE, China)
