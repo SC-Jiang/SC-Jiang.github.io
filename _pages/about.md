@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bio
+Biography
 -----
 
 My name is Songchen Jiang. I'm a joint Ph.D. student in the College of Information Science and Engineering, Northeastern University (China) (Supervisor: [Prof. Min Huang](http://www.ise.neu.edu.cn/2019/0109/c5989a8236/page.htm)) and the Institute of Operations Research and Analytics (IORA), National University of Singapore (Supervisor: [Prof. Chung-Piaw TEO](https://iora.nus.edu.sg/people-p/teo-chung-piaw/)). My research interests include Data-driven optimization, Stochastic modeling, and their applications in supply chain management.
@@ -21,7 +21,7 @@ Recent News
 Education
 -----
 
-**2022.12 - present:** Visiting Ph.D. student at the Institute of Operations Research and Analytics, National University of Singapore.
+**2022.12 - 2024.12:** Visiting Ph.D. student at the Institute of Operations Research and Analytics, National University of Singapore.
 
 **2021.09 - present:** Ph.D. student at the College of Information Science and Engineering, Northeastern University (China).
 
