@@ -4,13 +4,15 @@ title: "Papers"
 author_profile: true
 ---
 
+Selected Publications
+-----
+* [S1] [Dual-Sourcing Made Easy: Distributionally Robust Optimization of Inventory System under Independent Demand](https://doi.org/10.1287/opre.2024.1481).  <br>
+  **Jiang, S.**, Li, Z., Bi, S.*, Teo, CP., Huang, M. <br>
+ _Operations Research_, 2026.
+
 Journal Papers
 -----
 $^{\*}$: corresponding author
-
-* [J7] [Dual-Sourcing Made Easy: Distributionally Robust Optimization of Inventory System under Independent Demand](https://doi.org/10.1287/opre.2024.1481).  <br>
-  **Jiang, S.**, Li, Z., Bi, S.*, Teo, CP., Huang, M. <br>
- _Operations Research_, 2026.
 
 * [J6] [Integrating Supply, Production, and Demand Uncertainties in Manufacturing Inventory Systems](https://ieeexplore.ieee.org/abstract/document/11126965).  <br>
   Wang, G., Huang, M., Perera, S., **Jiang, S.**, Fang, S.C. <br>
