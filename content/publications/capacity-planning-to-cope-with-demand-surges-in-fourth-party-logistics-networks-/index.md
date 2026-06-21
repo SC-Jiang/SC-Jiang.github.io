@@ -19,6 +19,6 @@ tags:
   - Demand Surges
 featured: true
 links:
-  - type: pdf
+  - type: To see
     url: https://doi.org/10.1016/j.cor.2024.106956
 ---
