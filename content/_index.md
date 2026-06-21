@@ -32,21 +32,6 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: false
-  - block: markdown
-    id: research
-    content:
-      title: '🔬 Research'
-      subtitle: ''
-      text: |-
-        My research aims to develop data-driven and distributionally robust optimization methods for operational decision-making under uncertainty. I focus on settings where decision makers have limited distributional information, such as moment information, historical samples, or partial demand signals.
-
-        **Data-driven Supply Chain Network Planning** — I study supply chain network design problems under demand surges and limited distributional information, with an emphasis on tractable reformulations and approximation algorithms.
-
-        **Robust Inventory and Perishable Systems** — I develop robust inventory models for uncertain demand, fixed ordering costs, lead times, and product perishability.
-
-        **Competition, Capacity, and Service Quality** — I study capacity competition, service-quality differentiation, and bilevel decision-making in logistics and supply chain systems.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
@@ -69,19 +54,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: projects
+  - block: markdown
+    id: service
     content:
-      title: 🧩 Research Projects
+      title: '🎓 Academic Service'
+      subtitle: ''
       text: |-
-        These projects summarize my main research directions in operations research, robust optimization, and supply chain analytics.
-      count: 0
-      filters:
-        folders:
-          - projects
+        📰 **Reviewer** — I service as a reviewer for journals such as Humanities and Social Sciences Communications, Computers & Industrial Engineering, Information Processing and Management.
+
+        🎤 **Invited Talks** — Recent invited talks include *Distributionally Robust Inventory Management with Independent Demands* (ISCOM 2025 @ Wuxi, Jiangsu) and *Stochastic Modeling and Operations Management of Platform Logistics under Cooperation and Competition* (POMS-China 2026 @ Xi'an, Shaanxi).
     design:
-      view: article-grid
-      columns: 3
+      columns: '1'
   - block: markdown
     id: teaching
     content:
