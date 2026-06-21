@@ -47,22 +47,6 @@ div[class*="rounded-full"] > svg image {
   height: 100% !important;
 }
 
-/* /* ============================================================
-   Bold the profile owner's name in publication lists
-   ============================================================ */
-.author-highlighted,
-a[href*="/author/"] .author-highlighted,
-.highlight-author-name,
-span.author-highlighted,
-a.author-highlighted {
-  font-weight: 700 !important;
-}
-
-.pub-label {
-  font-weight: 700;
-  margin-right: 0.4rem;
-  color: #111827;
-} */
 
 /* Publication label such as [J1], [C1], [W1] */
 .pub-label {
