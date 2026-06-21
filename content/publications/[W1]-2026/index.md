@@ -15,7 +15,4 @@ tags:
   - Network Design
   - Bounded Rationality
 featured: false
-links:
-  - type: pdf
-    url: https://www.tandfonline.com/doi/full/10.1080/00207543.2022.2140220
 ---
