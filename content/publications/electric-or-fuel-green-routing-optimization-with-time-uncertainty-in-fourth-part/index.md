@@ -15,6 +15,7 @@ publication_short: '*Transportation Research Part D: Transport and Environment*'
 abstract: 'Green routing optimization with time uncertainty in fourth-party logistics.'
 summary: 'Green routing optimization with time uncertainty in fourth-party logistics.'
 tags:
+  - Journal
   - Green Logistics
   - Routing Optimization
 featured: false
