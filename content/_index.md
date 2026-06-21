@@ -46,17 +46,9 @@ sections:
       columns: 2
     
   - block: markdown
-    id: publications
-    content:
-      title: '📚 Publications'
-      subtitle: ''
-      text: ''
-    design:
-      columns: '1'
-  - block: collection
     id: journal-articles
     content:
-      title: 'Journal Articles'
+      title: '📚 Journal Articles'
       text: ''
       count: 0
       filters:
@@ -66,10 +58,10 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: markdown
     id: conference-papers
     content:
-      title: 'Conference Papers'
+      title: '📚 Conference Papers'
       text: ''
       count: 0
       filters:
@@ -79,10 +71,10 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: markdown
     id: working-papers
     content:
-      title: 'Working Papers and Preprints'
+      title: '📚 Working Papers and Preprints'
       text: ''
       count: 0
       filters:
