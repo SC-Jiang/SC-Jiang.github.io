@@ -38,7 +38,7 @@ interests:
 education:
   - degree: Ph.D. Student, College of Information Science and Engineering
     institution: Northeastern University, China
-    icon: NEU
+    icon_image: /media/icons/brands/NEU.png
     start: 2021-09
     end: 2026-06
     summary: |
