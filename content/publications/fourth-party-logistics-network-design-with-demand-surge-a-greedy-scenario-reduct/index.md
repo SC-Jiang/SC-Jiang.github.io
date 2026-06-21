@@ -16,8 +16,8 @@ summary: 'Fourth-party logistics network design under demand surge using scenari
 tags:
   - Demand Surges
   - Decomposition Algorithms
-featured: true
+featured: false
 links:
-  - type: pdf
+  - type: link
     url: https://doi.org/10.1016/j.ijpe.2023.109135
 ---
