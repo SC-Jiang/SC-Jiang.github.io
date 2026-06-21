@@ -32,6 +32,7 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: false
+    
   - block: collection
     id: papers
     content:
@@ -43,17 +44,58 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+    
+  - block: markdown
+    id: publications
     content:
-      title: 📚 All Publications
+      title: '📚 Publications'
+      subtitle: ''
+      text: ''
+    design:
+      columns: '1'
+
+  - block: collection
+    id: journal-articles
+    content:
+      title: 'Journal Articles'
       text: ''
       count: 0
       filters:
         folders:
           - publications
+        publication_type: paper-journal
         exclude_featured: false
     design:
       view: citation
+
+  - block: collection
+    id: conference-papers
+    content:
+      title: 'Conference Papers'
+      text: ''
+      count: 0
+      filters:
+        folders:
+          - publications
+        publication_type: paper-conference
+        exclude_featured: false
+    design:
+      view: citation
+
+  - block: collection
+    id: working-papers
+    content:
+      title: 'Working Papers and Preprints'
+      text: ''
+      count: 0
+      filters:
+        folders:
+          - publications
+        publication_type: paper-preprint
+        exclude_featured: false
+    design:
+      view: citation
+    
   - block: markdown
     id: service
     content:
