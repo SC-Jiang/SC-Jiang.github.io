@@ -11,18 +11,14 @@ name:
 postnominals: []
 status:
   icon: "📊"
-role: 运筹学博士研究生
+role: 运筹学领域科研工作者
 # avatar_filename: me.jpg
 bio: |
   我是东北大学信息科学与工程学院博士研究生，并曾赴新加坡国立大学运筹与分析研究所联合培养。我的研究兴趣包括数据驱动优化、分布式鲁棒优化、随机建模与供应链分析。我关注如何在分布信息有限、需求不确定和运营环境复杂的条件下，构建可求解、可解释且具有管理启示的优化模型与算法。
 
-  以上中文内容为占位文本，你可以后续根据需要自行替换。
-
 affiliations:
   - name: 东北大学
     url: https://www.neu.edu.cn/
-  - name: 新加坡国立大学
-    url: https://www.nus.edu.sg/
 
 links:
   - icon: at-symbol
@@ -35,37 +31,33 @@ links:
 
 interests:
   - 数据驱动优化
-  - 分布式鲁棒优化
   - 随机建模
-  - 供应链分析
-  - 库存管理
-  - 网络设计
-  - 运营管理
+  - 供应链管理
 
 education:
-  - degree: 信息科学与工程学院博士研究生
+  - degree: 工学博士 - 控制科学与工程专业
     institution: 东北大学
-    icon: hero/academic-cap
+    icon: brands/neu
     start: 2021-09-01
-    end: null
+    end: 2026-06-30
     summary: |
       导师：黄敏教授。研究方向包括数据驱动优化、随机建模、分布式鲁棒优化与供应链管理。
-  - degree: 运筹与分析研究所访问博士研究生
+  - degree: 访问博士研究生 - 统计与运筹学专业
     institution: 新加坡国立大学
-    icon: hero/academic-cap
+    icon: brands/nus
     start: 2022-12-01
     end: 2024-12-31
     summary: |
-      导师：张钟屏教授。研究方向包括运筹优化、鲁棒优化与供应链分析。
-  - degree: 系统工程硕士
+      导师：张俊标教授。研究方向包括运筹优化、鲁棒优化与供应链分析。
+  - degree: 工学硕士 - 系统工程专业
     institution: 东北大学
-    icon: hero/academic-cap
+    icon: brands/neu
     start: 2019-09-01
     end: 2021-06-30
     summary: ''
-  - degree: 自动化学士
+  - degree: 工学学士 - 自动化专业
     institution: 东北大学
-    icon: hero/academic-cap
+    icon: brands/neu
     start: 2015-09-01
     end: 2019-06-30
     summary: ''
@@ -79,7 +71,7 @@ skills:
         level: 5
       - label: 随机建模
         level: 5
-      - label: 供应链分析
+      - label: 供应链管理
         level: 5
       - label: 混合整数优化
         level: 4
