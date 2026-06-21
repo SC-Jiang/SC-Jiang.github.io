@@ -94,26 +94,26 @@ languages:
 awards:
   - title: The ISCOM 2025 Best Conference Paper
     awarder: ISCOM
-    date: "2025-12"
+    date: "2025-12-01"
     summary: ''
     icon: hero/trophy
   - title: The 2025 CSAMSE Annual Conference Best Practice Award, Third Prize
     awarder: CSAMSE
-    date: "2025-07"
+    date: "2025-07-01"
     summary: ''
     icon: hero/trophy
   - title: National Scholarship for Postgraduates
     awarder: Ministry of Education, China
-    date: "2020-10"
+    date: "2020-10-01"
     summary: ''
     icon: hero/trophy
   - title: Excellence Award of the National College Student Innovation and Entrepreneurship Training Program
     awarder: Ministry of Education, China
-    date: "2018-09"
+    date: "2018-09-01"
     summary: ''
     icon: hero/trophy
   - title: Silver Award of the Silicon Valley International Invention Festival
     awarder: SVIIF
-    date: "2018-07"
+    date: "2018-07-01"
     summary: ''
     icon: hero/trophy
