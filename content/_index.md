@@ -10,7 +10,7 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username: me_bio
+      username: me
       text: ''
       headings:
         about: 'Biography'
