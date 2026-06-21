@@ -14,6 +14,7 @@ publication_short: '*International Journal of Production Economics*'
 abstract: 'Fourth-party logistics network design under demand surge using scenario reduction and decomposition.'
 summary: 'Fourth-party logistics network design under demand surge using scenario reduction and decomposition.'
 tags:
+  - Journal
   - Demand Surges
   - Decomposition Algorithms
 featured: false
