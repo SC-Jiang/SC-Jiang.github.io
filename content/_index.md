@@ -54,7 +54,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: paper-journal
+        tag: Journal
         exclude_featured: false
     design:
       view: citation
