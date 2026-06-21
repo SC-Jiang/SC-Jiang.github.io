@@ -3,7 +3,7 @@ title: 'Dual-Sourcing Made Easy: Distributionally Robust Optimization of Invento
 authors:
   - me
   - Zhaolin Li
-  - Sheng Bi
+  - Sheng Bi*
   - Chung-Piaw Teo
   - Min Huang
 date: '2026-04-09T00:00:00Z'
