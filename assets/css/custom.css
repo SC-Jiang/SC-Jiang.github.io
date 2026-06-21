@@ -58,12 +58,27 @@ a.author-highlighted {
   font-weight: 700 !important;
 }
 
-/*  ============================================================
-    Justify abstract text in publication pages 
-    ============================================================ */
-section#abstract p,
-.pub-abstract,
-.article-style {
-  text-align: justify;
-  text-justify: inter-word;
+/* ============================================================
+   Justify abstract and publication detail text
+   ============================================================ */
+
+/* Publication detail pages: abstract/body paragraphs */
+main article p,
+main .prose p,
+main .article-style p,
+main div[class*="prose"] p,
+main div[class*="article"] p {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+}
+
+/* Keep headings, buttons, links, metadata from being affected */
+main article h1,
+main article h2,
+main article h3,
+main article .btn,
+main article nav,
+main article .metadata,
+main article .article-metadata {
+  text-align: left !important;
 }
