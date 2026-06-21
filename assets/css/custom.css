@@ -82,20 +82,3 @@ main article .metadata,
 main article .article-metadata {
   text-align: left !important;
 }
-
-/* ============================================================
-   Justify abstract text on publication detail pages
-   Hugo Blox renders publication metadata such as Abstract/Type/
-   Publication in a definition-list layout, so the abstract text
-   is usually inside <dd>, not necessarily inside <p>.
-   ============================================================ */
-
-main dl dd,
-main dl dd p,
-main article dl dd,
-main article dl dd p {
-  text-align: justify !important;
-  text-align-last: left !important;
-  text-justify: inter-word !important;
-  hyphens: auto;
-}
