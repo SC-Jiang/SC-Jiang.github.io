@@ -58,3 +58,8 @@ a.author-highlighted {
   font-weight: 700 !important;
 }
 
+.pub-label {
+  font-weight: 700;
+  margin-right: 0.4rem;
+  color: #111827;
+}
