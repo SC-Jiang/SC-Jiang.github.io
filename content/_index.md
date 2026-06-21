@@ -14,7 +14,7 @@ sections:
       text: ''
       headings:
         about: 'Biography'
-        education: ''
+        # education: ''
         interests: ''
     design:
       background:
