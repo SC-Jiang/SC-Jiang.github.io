@@ -32,39 +32,35 @@ links:
 
 interests:
   - Data-driven Optimization
-  - Distributionally Robust Optimization
+  - Supply Chain Management
   - Stochastic Modeling
-  - Supply Chain Analytics
-  - Inventory Management
-  - Network Design
-  - Operations Management
 
 education:
   - degree: Ph.D. Student, College of Information Science and Engineering
     institution: Northeastern University, China
-    icon: hero/academic-cap
-    start: 2021-09-01
-    end: null
+    icon: NEU
+    start: 2021-09
+    end: 2026-06
     summary: |
       Supervisor: Prof. Min Huang. Research areas include data-driven optimization, stochastic modeling, distributionally robust optimization, and supply chain management.
   - degree: Visiting Ph.D. Student, Institute of Operations Research and Analytics
     institution: National University of Singapore
     icon: hero/academic-cap
-    start: 2022-12-01
-    end: 2024-12-31
+    start: 2022-12
+    end: 2024-12
     summary: |
       Supervisor: Prof. Chung-Piaw Teo. Research on operations research, robust optimization, and supply chain analytics.
   - degree: Master of Engineering in Systems Engineering
     institution: Northeastern University, China
     icon: hero/academic-cap
-    start: 2019-09-01
-    end: 2021-06-30
+    start: 2019-09
+    end: 2021-06
     summary: ''
   - degree: Bachelor Degree in Automation
     institution: Northeastern University, China
     icon: hero/academic-cap
-    start: 2015-09-01
-    end: 2019-06-30
+    start: 2015-09
+    end: 2019-06
     summary: ''
 
 experience: []
