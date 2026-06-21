@@ -10,11 +10,10 @@
   {{ if eq (site.Params.hugoblox.content.citations.style | default "apa") "apa" }}
 
   {{ with $item.Params.publication_label }}
-  <span class="pub-label">{{ . }}</span>
+    <span class="pub-label">{{ . }}</span>
   {{ end }}
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}
-    {{ $authors | replaceRE "Songchen Jiang" "<strong>Songchen Jiang</strong>" | safeHTML }}
+    {{ partial "page_metadata_authors" $item | replaceRE "Songchen Jiang" "<strong>Songchen Jiang</strong>" | safeHTML }}
   </span>
   ({{- $year -}}).
   <a href="{{ $item.RelPermalink }}" class="underline">{{ $item.Title }}</a>.
@@ -37,8 +36,7 @@
     <span class="pub-label">{{ . }}</span>
   {{ end }}
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}.
-    {{ $authors | replaceRE "Songchen Jiang" "<strong>Songchen Jiang</strong>" | safeHTML }}.
+    {{ partial "page_metadata_authors" $item | replaceRE "Songchen Jiang" "<strong>Songchen Jiang</strong>" | safeHTML }}.
   </span>
   <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
   {{ if $item.Params.publication_short }}
