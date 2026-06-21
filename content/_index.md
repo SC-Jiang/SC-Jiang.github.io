@@ -45,7 +45,7 @@ sections:
       view: article-grid
       columns: 2
     
-  - block: markdown
+  - block: collection
     id: journal-articles
     content:
       title: '📚 Journal Articles'
@@ -58,7 +58,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
+  - block: collection
     id: conference-papers
     content:
       title: '📚 Conference Papers'
@@ -71,7 +71,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
+  - block: collection
     id: working-papers
     content:
       title: '📚 Working Papers and Preprints'
