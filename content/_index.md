@@ -10,11 +10,11 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username: me
+      username: me_bio
       text: ''
       headings:
         about: 'Biography'
-        # education: ''
+        education: ''
         interests: ''
     design:
       background:
