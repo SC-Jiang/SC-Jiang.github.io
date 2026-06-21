@@ -26,7 +26,7 @@ sections:
         size: medium
         shape: circle
   - block: resume-experience
-  id: education
+  id: experience
   content:
     username: me
   design:
