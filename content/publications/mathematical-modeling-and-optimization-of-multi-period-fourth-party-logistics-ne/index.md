@@ -15,6 +15,7 @@ publication_short: '*Expert Systems with Applications*'
 abstract: 'Multi-period fourth-party logistics network design with customer satisfaction-sensitive demand.'
 summary: 'Multi-period fourth-party logistics network design with customer satisfaction-sensitive demand.'
 tags:
+  - Journal
   - Network Design
   - Fourth-party Logistics
 featured: false
