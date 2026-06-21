@@ -1,0 +1,125 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Songchen Jiang
+  given: Songchen
+  family: Jiang
+  alternate: 蒋松辰
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: "📊"
+role: Ph.D. Student in Operations Research
+bio: |
+  I am a joint Ph.D. student in the College of Information Science and Engineering at Northeastern University, China, supervised by Prof. [Min Huang](http://www.ise.neu.edu.cn/2019/0109/c5989a8236/page.htm), and the Institute of Operations Research and Analytics at the National University of Singapore, supervised by Prof. [Chung-Piaw Teo](https://iora.nus.edu.sg/people-p/teo-chung-piaw/). My research lies at the intersection of data-driven optimization, distributionally robust optimization, stochastic modeling, and supply chain analytics. I am particularly interested in developing tractable optimization models and algorithms for decision-making under uncertainty, with applications in inventory systems, supply chain network design, logistics planning, and operations management.
+
+affiliations:
+  - name: Northeastern University, China
+    url: https://english.neu.edu.cn/
+  - name: National University of Singapore
+    url: https://iora.nus.edu.sg/
+
+links:
+  - icon: at-symbol
+    url: mailto:sjiang@stumail.neu.edu.cn
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=zh-CN&user=2xokQLsAAAAJ
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Songchen-Jiang
+
+interests:
+  - Data-driven Optimization
+  - Distributionally Robust Optimization
+  - Stochastic Modeling
+  - Supply Chain Analytics
+  - Inventory Management
+  - Network Design
+  - Operations Management
+
+education:
+  - degree: Ph.D. Student, College of Information Science and Engineering
+    institution: Northeastern University, China
+    icon: hero/academic-cap
+    start: 2021-09-01
+    end: null
+    summary: |
+      Supervisor: Prof. Min Huang. Research areas include data-driven optimization, stochastic modeling, distributionally robust optimization, and supply chain management.
+  - degree: Visiting Ph.D. Student, Institute of Operations Research and Analytics
+    institution: National University of Singapore
+    icon: hero/academic-cap
+    start: 2022-12-01
+    end: 2024-12-31
+    summary: |
+      Supervisor: Prof. Chung-Piaw Teo. Research on operations research, robust optimization, and supply chain analytics.
+  - degree: Master of Engineering in Systems Engineering
+    institution: Northeastern University, China
+    icon: hero/academic-cap
+    start: 2019-09-01
+    end: 2021-06-30
+    summary: ''
+  - degree: Bachelor Degree in Automation
+    institution: Northeastern University, China
+    icon: hero/academic-cap
+    start: 2015-09-01
+    end: 2019-06-30
+    summary: ''
+
+experience: []
+
+skills:
+  - name: Research
+    items:
+      - label: Distributionally Robust Optimization
+        level: 5
+      - label: Stochastic Modeling
+        level: 5
+      - label: Supply Chain Analytics
+        level: 5
+      - label: Mixed-integer Optimization
+        level: 4
+  - name: Tools
+    items:
+      - label: Python
+        level: 4
+      - label: MATLAB
+        level: 4
+      - label: LaTeX
+        level: 5
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Professional
+
+awards:
+  - title: The ISCOM 2025 Best Conference Paper
+    awarder: ISCOM
+    date: "2025-12-01"
+    summary: ''
+    icon: hero/trophy
+  - title: The 2025 CSAMSE Annual Conference Best Practice Award, Third Prize
+    awarder: CSAMSE
+    date: "2025-07-01"
+    summary: ''
+    icon: hero/trophy
+  - title: National Scholarship for Postgraduates
+    awarder: Ministry of Education, China
+    date: "2020-10-01"
+    summary: ''
+    icon: hero/trophy
+  - title: Excellence Award of the National College Student Innovation and Entrepreneurship Training Program
+    awarder: Ministry of Education, China
+    date: "2018-09-01"
+    summary: ''
+    icon: hero/trophy
+  - title: Silver Award of the Silicon Valley International Invention Festival
+    awarder: SVIIF
+    date: "2018-07-01"
+    summary: ''
+    icon: hero/trophy

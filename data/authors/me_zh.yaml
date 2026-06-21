@@ -1,0 +1,127 @@
+schema: hugoblox/author/v1
+slug: me_zh
+is_owner: true
+name:
+  display: 蒋松辰
+  given: 松辰
+  family: 蒋
+  alternate: Songchen Jiang
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: "📊"
+role: 运筹学博士研究生
+bio: |
+  我是东北大学信息科学与工程学院博士研究生，并曾赴新加坡国立大学运筹与分析研究所联合培养。我的研究兴趣包括数据驱动优化、分布式鲁棒优化、随机建模与供应链分析。我关注如何在分布信息有限、需求不确定和运营环境复杂的条件下，构建可求解、可解释且具有管理启示的优化模型与算法。
+
+  以上中文内容为占位文本，你可以后续根据需要自行替换。
+
+affiliations:
+  - name: 东北大学
+    url: https://www.neu.edu.cn/
+  - name: 新加坡国立大学
+    url: https://www.nus.edu.sg/
+
+links:
+  - icon: at-symbol
+    url: mailto:sjiang@stumail.neu.edu.cn
+    label: 发送邮件
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=zh-CN&user=2xokQLsAAAAJ
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Songchen-Jiang
+
+interests:
+  - 数据驱动优化
+  - 分布式鲁棒优化
+  - 随机建模
+  - 供应链分析
+  - 库存管理
+  - 网络设计
+  - 运营管理
+
+education:
+  - degree: 信息科学与工程学院博士研究生
+    institution: 东北大学
+    icon: hero/academic-cap
+    start: 2021-09-01
+    end: null
+    summary: |
+      导师：黄敏教授。研究方向包括数据驱动优化、随机建模、分布式鲁棒优化与供应链管理。
+  - degree: 运筹与分析研究所访问博士研究生
+    institution: 新加坡国立大学
+    icon: hero/academic-cap
+    start: 2022-12-01
+    end: 2024-12-31
+    summary: |
+      导师：张钟屏教授。研究方向包括运筹优化、鲁棒优化与供应链分析。
+  - degree: 系统工程硕士
+    institution: 东北大学
+    icon: hero/academic-cap
+    start: 2019-09-01
+    end: 2021-06-30
+    summary: ''
+  - degree: 自动化学士
+    institution: 东北大学
+    icon: hero/academic-cap
+    start: 2015-09-01
+    end: 2019-06-30
+    summary: ''
+
+experience: []
+
+skills:
+  - name: 研究
+    items:
+      - label: 分布式鲁棒优化
+        level: 5
+      - label: 随机建模
+        level: 5
+      - label: 供应链分析
+        level: 5
+      - label: 混合整数优化
+        level: 4
+  - name: 工具
+    items:
+      - label: Python
+        level: 4
+      - label: MATLAB
+        level: 4
+      - label: LaTeX
+        level: 5
+
+languages:
+  - name: 中文
+    level: 5
+    label: 母语
+  - name: 英文
+    level: 4
+    label: 专业工作能力
+
+awards:
+  - title: ISCOM 2025 最佳会议论文
+    awarder: ISCOM
+    date: "2025-12-01"
+    summary: ''
+    icon: hero/trophy
+  - title: 2025 年 CSAMSE 年会最佳实践奖三等奖
+    awarder: CSAMSE
+    date: "2025-07-01"
+    summary: ''
+    icon: hero/trophy
+  - title: 研究生国家奖学金
+    awarder: 中华人民共和国教育部
+    date: "2020-10-01"
+    summary: ''
+    icon: hero/trophy
+  - title: 国家级大学生创新创业训练计划优秀奖
+    awarder: 中华人民共和国教育部
+    date: "2018-09-01"
+    summary: ''
+    icon: hero/trophy
+  - title: 硅谷国际发明节银奖
+    awarder: SVIIF
+    date: "2018-07-01"
+    summary: ''
+    icon: hero/trophy

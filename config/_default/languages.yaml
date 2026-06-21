@@ -1,0 +1,37 @@
+# Languages
+en:
+  languageCode: en-us
+  languageName: English
+  weight: 1
+
+zh:
+  languageCode: zh-Hans
+  languageName: 中文
+  contentDir: content/zh
+  weight: 2
+  title: 蒋松辰
+  params:
+    description: 蒋松辰个人主页
+  menu:
+    main:
+      - name: 首页
+        url: /zh/
+        weight: 10
+      - name: 研究
+        url: /zh/#research
+        weight: 11
+      - name: 论文
+        url: /zh/#papers
+        weight: 12
+      - name: 项目
+        url: /zh/#projects
+        weight: 13
+      - name: 教学
+        url: /zh/#teaching
+        weight: 14
+      - name: 荣誉
+        url: /zh/#awards
+        weight: 15
+      - name: 联系
+        url: /zh/#contact
+        weight: 20

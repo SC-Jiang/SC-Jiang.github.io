@@ -1,0 +1,59 @@
+/* ============================================================
+   Enlarge institution logo circles everywhere:
+
+   A) Experience/Education TIMELINE (resume-experience block)
+      DOM: div.rounded-full.border-2.border-primary-500 > svg.w-4.h-4
+      Container: w-8 h-8 (2rem) — needs significant scale-up
+
+   B) Biography EDUCATION CARDS (resume-biography-3 block)
+      DOM: div.flex-shrink-0.w-12.h-12.ring-1.ring-gray-200.rounded-full.shadow-md > svg.w-6.h-6
+      Container: w-12 h-12 (3rem) — already bigger, mainly SVG needs to fill more
+
+   Strategy: transform:scale() preserves layout centering automatically.
+   CSS :has(> svg) ensures we only target circles containing icons.
+   ============================================================ */
+
+/* ---- A. Timeline icon circles (border-2 / border-primary) ---- */
+div[class*="rounded-full"][class*="border-2"]:has(> svg),
+div[class*="rounded-full"][class*="border-primary"]:has(> svg) {
+  transform: scale(1.5);
+  overflow: hidden !important;
+}
+
+/* Timeline glow/blur background */
+div[class*="blur-md"][class*="rounded-full"] {
+  transform: scale(1.5);
+}
+
+/* ---- B. Biography education card circles (ring + shadow-md) ---- */
+div[class*="rounded-full"][class*="shadow-md"][class*="flex-shrink-0"]:has(> svg) {
+  transform: scale(1.15);
+  overflow: hidden !important;
+}
+
+/* ---- C. SVG sizing — fill the circle in ALL cases ---- */
+div[class*="rounded-full"][class*="border-2"] > svg,
+div[class*="rounded-full"][class*="border-primary"] > svg,
+div[class*="rounded-full"][class*="shadow-md"][class*="flex-shrink-0"] > svg {
+  width: 85% !important;
+  height: 85% !important;
+  max-width: none !important;
+  max-height: none !important;
+}
+
+/* ---- D. Ensure <image> inside SVG stretches properly ---- */
+div[class*="rounded-full"] > svg image {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* ============================================================
+   Bold the profile owner's name in publication lists
+   ============================================================ */
+.author-highlighted,
+a[href*="/author/"] .author-highlighted,
+.highlight-author-name,
+span.author-highlighted,
+a.author-highlighted {
+  font-weight: 700 !important;
+}
