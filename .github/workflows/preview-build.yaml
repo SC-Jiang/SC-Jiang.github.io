@@ -17,6 +17,14 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install TailwindCSS CLI
+        run: npm install -g tailwindcss @tailwindcss/cli
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
