@@ -1,6 +1,6 @@
 schema: hugoblox/author/v1
 slug: me
-is_owner: true
+is_owner: false
 name:
   display: Songchen Jiang
   given: Songchen
@@ -12,6 +12,7 @@ postnominals: []
 status:
   icon: "📊"
 role: Researcher in Operations Research
+avatar_filename: me.jpg
 bio: |
   I am a joint Ph.D. student in the College of Information Science and Engineering at Northeastern University, China, supervised by Prof. [Min Huang](http://www.ise.neu.edu.cn/2019/0109/c5989a8236/page.htm), and the Institute of Operations Research and Analytics at the National University of Singapore, supervised by Prof. [Chung-Piaw Teo](https://iora.nus.edu.sg/people-p/teo-chung-piaw/). My research lies at the intersection of data-driven optimization, distributionally robust optimization, stochastic modeling, and supply chain analytics. I am particularly interested in developing tractable optimization models and algorithms for decision-making under uncertainty, with applications in inventory systems, supply chain network design, logistics planning, and operations management.
 
