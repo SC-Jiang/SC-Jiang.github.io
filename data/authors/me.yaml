@@ -37,28 +37,28 @@ education:
   - degree: Ph.D. in Control Science and Engineering
     institution: College of Information Science and Engineering, Northeastern University (CN)
     icon: brands/neu
-    start: 2021-09
-    end: 2026-06
+    start: 2021-09-01
+    end: 2026-06-30
     summary: |
       Supervisor: Prof. Min Huang. Research areas include data-driven optimization, stochastic modeling, and supply chain management.
   - degree: Visiting Ph.D. Student in Statistics and Operational Research
     institution: Institute of Operations Research and Analytics, National University of Singapore
     icon: brands/nus
-    start: 2022-12
-    end: 2024-12
+    start: 2022-12-01
+    end: 2024-12-31
     summary: |
       Supervisor: Prof. Chung-Piaw Teo. Research on operations research, robust optimization, and supply chain analytics.
   - degree: M.Sc. in Systems Engineering
     institution: College of Information Science and Engineering, Northeastern University (CN)
     icon: brands/neu
-    start: 2019-09
-    end: 2021-06
+    start: 2019-09-01
+    end: 2021-06-30
     summary: ''
   - degree: B.Eng. in Automation
     institution: College of Information Science and Engineering, Northeastern University (CN)
     icon: brands/neu
-    start: 2015-09
-    end: 2019-06
+    start: 2015-09-01
+    end: 2019-06-30
     summary: ''
 
 experience: []
