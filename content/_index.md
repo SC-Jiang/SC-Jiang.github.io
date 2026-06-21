@@ -83,6 +83,8 @@ sections:
     content:
       title: Awards & Honors
       username: me
+    design:
+      date_format: 'January 2006'
   - block: markdown
     id: contact
     content:
