@@ -2,21 +2,36 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Research
-    url: /#research
-    weight: 11
+  # - name: Research
+  #   url: /#research
+  #   weight: 11
+  # - name: Publications
+  #   url: /#papers
+  #   weight: 12
+  # - name: Projects
+  #   url: /#projects
+  #   weight: 13
+  # - name: Teaching
+  #   url: /#teaching
+  #   weight: 14
+  # - name: Awards
+  #   url: /#awards
+  #   weight: 15
+  # - name: Contact
+  #   url: /#contact
+  #   weight: 20
   - name: Publications
     url: /#papers
+    weight: 11
+  - name: Service
+    url: /#service
     weight: 12
-  - name: Projects
-    url: /#projects
-    weight: 13
   - name: Teaching
     url: /#teaching
-    weight: 14
+    weight: 13
   - name: Awards
     url: /#awards
-    weight: 15
+    weight: 14
   - name: Contact
     url: /#contact
     weight: 20
