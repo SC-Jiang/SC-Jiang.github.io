@@ -36,29 +36,29 @@ interests:
   - Stochastic Modeling
 
 education:
-  - degree: Ph.D. Student, College of Information Science and Engineering
-    institution: Northeastern University, China
+  - degree: Ph.D. Student in Control Science and Engineering
+    institution: College of Information Science and Engineering, Northeastern University (CN)
     icon: brands/neu
     start: 2021-09
     end: 2026-06
     summary: |
-      Supervisor: Prof. Min Huang. Research areas include data-driven optimization, stochastic modeling, distributionally robust optimization, and supply chain management.
-  - degree: Visiting Ph.D. Student, Institute of Operations Research and Analytics
-    institution: National University of Singapore
-    icon: hero/academic-cap
+      Supervisor: Prof. Min Huang. Research areas include data-driven optimization, stochastic modeling, and supply chain management.
+  - degree: Visiting Ph.D. Student in Statistics and Operational Research
+    institution: Institute of Operations Research and Analytics, National University of Singapore
+    icon: brands/nus
     start: 2022-12
     end: 2024-12
     summary: |
       Supervisor: Prof. Chung-Piaw Teo. Research on operations research, robust optimization, and supply chain analytics.
-  - degree: Master of Engineering in Systems Engineering
-    institution: Northeastern University, China
-    icon: hero/academic-cap
+  - degree: M.Sc. in Systems Engineering
+    institution: College of Information Science and Engineering, Northeastern University (CN)
+    icon: brands/neu
     start: 2019-09
     end: 2021-06
     summary: ''
-  - degree: Bachelor Degree in Automation
-    institution: Northeastern University, China
-    icon: hero/academic-cap
+  - degree: B.Eng. in Automation
+    institution: College of Information Science and Engineering, Northeastern University (CN)
+    icon: brands/neu
     start: 2015-09
     end: 2019-06
     summary: ''
