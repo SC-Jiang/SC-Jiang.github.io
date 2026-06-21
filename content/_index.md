@@ -26,12 +26,12 @@ sections:
         size: medium
         shape: circle
   - block: resume-experience
-  id: experience
-  content:
-    username: me
-  design:
-    date_format: 'January 2006'
-    is_education_first: false
+    id: experience
+    content:
+      username: me
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
   - block: markdown
     id: research
     content:
