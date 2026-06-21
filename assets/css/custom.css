@@ -50,7 +50,8 @@ div[class*="rounded-full"] > svg image {
 
 /* Publication label such as [J1], [C1], [W1] */
 .pub-label {
-  font-weight: normal !important;
+  /* font-weight: normal !important; */
+  font-weight: 700;
   margin-right: 0.35rem;
 }
 
