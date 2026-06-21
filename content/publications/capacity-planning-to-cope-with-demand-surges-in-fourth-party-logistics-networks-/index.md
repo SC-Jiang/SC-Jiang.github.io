@@ -1,7 +1,7 @@
 ---
 title: 'Capacity Planning to Cope with Demand Surges in Fourth-Party Logistics Networks under Chance-Constrained Service Levels'
 authors:
-  - **me**
+  - me
   - M. Huang
   - Y. Liu
   - Y. Zhang
