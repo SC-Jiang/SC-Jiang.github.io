@@ -15,6 +15,7 @@ publication_short: '*International Journal of Production Research*'
 abstract: 'A viability-oriented multi-period fourth-party logistics network design model and learning-based hyper-heuristic algorithm.'
 summary: 'A viability-oriented multi-period fourth-party logistics network design model and learning-based hyper-heuristic algorithm.'
 tags:
+  - Journal
   - Logistics Network Design
   - Hyper-Heuristics
 featured: false
