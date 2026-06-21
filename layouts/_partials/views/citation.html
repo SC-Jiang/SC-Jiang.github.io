@@ -11,13 +11,8 @@
       <span class="pub-label">{{ . }}</span>
     {{ end }}
 
-    {{ range $index, $author := $page.Params.authors }}
-      {{- if gt $index 0 }}, {{ end -}}
-      {{- if eq $author "me" -}}
-        <strong>Songchen Jiang</strong>
-      {{- else -}}
-        {{ $author }}
-      {{- end -}}
+    {{ with $page.Params.authors }}
+      {{ partial "page_metadata_authors" $page }}
     {{ end }}
 
     {{ with $page.Date }}
@@ -32,14 +27,9 @@
 
   </div>
 
-  {{ if or $page.Params.links $page.Params.url_pdf }}
+  {{ if or $page.Params.links $page.Params.url_pdf $page.Params.url_code $page.Params.url_dataset $page.Params.url_project $page.Params.url_slides $page.Params.url_video }}
     <div class="pub-links mt-1">
-      {{ with $page.Params.url_pdf }}
-        <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ . }}">PDF</a>
-      {{ end }}
-      {{ range $page.Params.links }}
-        <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ .url }}">{{ .type }}</a>
-      {{ end }}
+      {{ partial "page_links" (dict "page" $page "is_list" 1) }}
     </div>
   {{ end }}
 
