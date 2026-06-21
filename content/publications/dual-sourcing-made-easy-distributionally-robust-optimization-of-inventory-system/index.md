@@ -18,6 +18,6 @@ tags:
   - Inventory Management
 featured: true
 links:
-  - type: pdf
+  - type: link
     url: https://doi.org/10.1287/opre.2024.1481
 ---
