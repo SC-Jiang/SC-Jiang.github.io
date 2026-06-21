@@ -53,7 +53,6 @@ sections:
       text: ''
     design:
       columns: '1'
-
   - block: collection
     id: journal-articles
     content:
@@ -67,7 +66,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
   - block: collection
     id: conference-papers
     content:
@@ -81,7 +79,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
   - block: collection
     id: working-papers
     content:
