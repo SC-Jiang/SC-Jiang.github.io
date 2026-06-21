@@ -80,7 +80,7 @@ sections:
       filters:
         folders:
           - publications
-        tag:preprint
+        tag: Working Paper
         exclude_featured: false
     design:
       view: citation
