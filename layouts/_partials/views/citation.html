@@ -1,0 +1,46 @@
+{{/* Custom citation view with publication_label shown before authors */}}
+
+{{ $item := .item }}
+{{ $page := $item }}
+
+<div class="pub-list-item view-citation mb-5">
+
+  <div class="citation-text">
+
+    {{ with $page.Params.publication_label }}
+      <span class="pub-label">{{ . }}</span>
+    {{ end }}
+
+    {{ range $index, $author := $page.Params.authors }}
+      {{- if gt $index 0 }}, {{ end -}}
+      {{- if eq $author "me" -}}
+        <strong>Songchen Jiang</strong>
+      {{- else -}}
+        {{ $author }}
+      {{- end -}}
+    {{ end }}
+
+    {{ with $page.Date }}
+      ({{ .Format "2006" }}).
+    {{ end }}
+
+    <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>.
+
+    {{ with $page.Params.publication }}
+      <em>{{ . | markdownify }}</em>.
+    {{ end }}
+
+  </div>
+
+  {{ if or $page.Params.links $page.Params.url_pdf }}
+    <div class="pub-links mt-1">
+      {{ with $page.Params.url_pdf }}
+        <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ . }}">PDF</a>
+      {{ end }}
+      {{ range $page.Params.links }}
+        <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ .url }}">{{ .type }}</a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+</div>
