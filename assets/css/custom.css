@@ -47,7 +47,7 @@ div[class*="rounded-full"] > svg image {
   height: 100% !important;
 }
 
-/* ============================================================
+/* /* ============================================================
    Bold the profile owner's name in publication lists
    ============================================================ */
 .author-highlighted,
@@ -62,4 +62,18 @@ a.author-highlighted {
   font-weight: 700;
   margin-right: 0.4rem;
   color: #111827;
+} */
+
+/* Publication label such as [J1], [C1], [W1] */
+.pub-label {
+  font-weight: normal !important;
+  margin-right: 0.35rem;
+}
+
+/* Bold Songchen Jiang in publication author lists */
+.li-cite-author a[href*="/authors/me"],
+.li-cite-author a[href*="/author/me"],
+.article-metadata a[href*="/authors/me"],
+.article-metadata a[href*="/author/me"] {
+  font-weight: 700 !important;
 }
