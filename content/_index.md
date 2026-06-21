@@ -67,7 +67,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: paper-conference
+        tag: Conference
         exclude_featured: false
     design:
       view: citation
@@ -80,7 +80,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: paper-preprint
+        tag:preprint
         exclude_featured: false
     design:
       view: citation
