@@ -57,3 +57,13 @@ span.author-highlighted,
 a.author-highlighted {
   font-weight: 700 !important;
 }
+
+/*  ============================================================
+    Justify abstract text in publication pages 
+    ============================================================ */
+section#abstract p,
+.pub-abstract,
+.article-style {
+  text-align: justify;
+  text-justify: inter-word;
+}
