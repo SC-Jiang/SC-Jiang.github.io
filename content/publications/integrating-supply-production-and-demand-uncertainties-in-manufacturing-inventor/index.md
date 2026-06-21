@@ -14,6 +14,7 @@ publication_short: '*IEEE Transactions on Engineering Management*'
 abstract: 'Manufacturing inventory systems with integrated supply, production, and demand uncertainties.'
 summary: 'Manufacturing inventory systems with integrated supply, production, and demand uncertainties.'
 tags:
+  - Journal
   - Inventory Systems
   - Uncertainty
 featured: false
