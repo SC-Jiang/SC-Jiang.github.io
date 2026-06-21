@@ -56,9 +56,9 @@ div[class*="rounded-full"] > svg image {
 }
 
 /* Bold Songchen Jiang in publication author lists */
-.li-cite-author a[href*="/authors/me"],
-.li-cite-author a[href*="/author/me"],
-.article-metadata a[href*="/authors/me"],
-.article-metadata a[href*="/author/me"] {
+.li-cite-author a[href*="/authors/me_bio"],
+.li-cite-author a[href*="/author/me_bio"],
+.article-metadata a[href*="/authors/me_bio"],
+.article-metadata a[href*="/author/me_bio"] {
   font-weight: 700 !important;
 }
