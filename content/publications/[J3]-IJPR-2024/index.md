@@ -20,6 +20,6 @@ tags:
   - Supply Chain Network Design
 featured: false
 links:
-  - type: pdf
+  - type: link
     url: https://doi.org/10.1080/00207543.2024.2339530
 ---
