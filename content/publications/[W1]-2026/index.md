@@ -8,7 +8,7 @@ publishDate: '2022-04-30T00:00:00Z'
 publication_types: ['paper-preprint']
 publication: ''
 publication_short: ''
-pubilication_label: '[W1]'
+publication_label: '[W1]'
 abstract: ''
 summary: ''
 tags:
