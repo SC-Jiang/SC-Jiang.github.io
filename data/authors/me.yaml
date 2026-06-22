@@ -40,20 +40,22 @@ education:
     start: 2021-09-01
     end: 2026-06-30
     summary: |
-      Supervisor: Prof. Min Huang. Research areas include data-driven optimization, stochastic modeling, and supply chain management.
+      Supervisor: Prof. Min Huang  
+      Dissertation: Research on Data-Driven Supply Chain Network Optimization with Demand Surges
   - degree: Visiting Ph.D. Student in Statistics and Operational Research
     institution: Institute of Operations Research and Analytics, National University of Singapore
     icon: brands/nus
     start: 2022-12-01
     end: 2024-12-31
     summary: |
-      Supervisor: Prof. Chung-Piaw Teo. Research on operations research, robust optimization, and supply chain analytics.
+      Supervisor: Prof. Chung-Piaw Teo.
   - degree: M.Sc. in Systems Engineering
     institution: College of Information Science and Engineering, Northeastern University (CN)
     icon: brands/neu
     start: 2019-09-01
     end: 2021-06-30
-    summary: ''
+    summary: |
+      Supervisor: Prof. Min Huang. 
   - degree: B.Eng. in Automation
     institution: College of Information Science and Engineering, Northeastern University (CN)
     icon: brands/neu
