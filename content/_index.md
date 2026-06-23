@@ -5,7 +5,7 @@ date: 2026-06-21
 type: landing
 
 design:
-  spacing: '0.5rem'
+  spacing: '1rem'
 
 sections:
   - block: resume-biography-3
@@ -58,6 +58,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing: '1rem'
   - block: collection
     id: conference-papers
     content:
@@ -71,6 +72,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing: '1rem'
   - block: collection
     id: working-papers
     content:
@@ -84,6 +86,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing: '1rem'
     
   - block: markdown
     id: service
