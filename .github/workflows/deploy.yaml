@@ -39,7 +39,11 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
-
+      - name: Sync publications to Chinese content
+        run: |
+          mkdir -p content/zh/publications
+          rsync -a --delete content/publications/ content/zh/publications/
+          
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
