@@ -10,7 +10,7 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      username: me_zh
+      username: me_zh_bio
       text: ''
       headings:
         about: '个人简介'
