@@ -113,7 +113,7 @@ sections:
     id: awards
     content:
       title: 获奖与荣誉
-      username: me
+      username: me_zh
     design:
       date_format: 'January 2006'
   - block: markdown
