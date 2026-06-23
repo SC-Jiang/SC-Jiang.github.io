@@ -28,7 +28,7 @@ sections:
   - block: resume-experience
     id: experience
     content:
-      username: me
+      username: me_zh
     design:
       date_format: 'January 2006'
       is_education_first: false
