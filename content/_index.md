@@ -5,7 +5,7 @@ date: 2026-06-21
 type: landing
 
 design:
-  spacing: '2rem'
+  spacing: '0.5rem'
 
 sections:
   - block: resume-biography-3
