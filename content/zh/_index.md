@@ -93,9 +93,7 @@ sections:
       text: |-
         📰 **审稿人** — 我目前担任Nature子刊Humanities and Social Sciences Communications, 国际期刊Computers & Industrial Engineering, Information Processing and Management等领域期刊审稿人.
 
-        🎤 **受邀报告**
-    — *Distributionally Robust Inventory Management with Independent Demands* (ISCOM 2025 @ 江苏·无锡)
-    — *Stochastic Modeling and Operations Management of Platform Logistics under Cooperation and Competition* (POMS-China 2026 @ 陕西·西安).
+        🎤 **受邀报告**— *Distributionally Robust Inventory Management with Independent Demands* (ISCOM 2025 @ 江苏·无锡) *Stochastic Modeling and Operations Management of Platform Logistics under Cooperation and Competition* (POMS-China 2026 @ 陕西·西安).
     design:
       columns: '1'
   - block: markdown
