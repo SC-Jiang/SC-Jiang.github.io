@@ -1,1 +1,37 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Songchen Jiang
+  given: Songchen
+  family: Jiang
+  alternate: 蒋松辰
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: "📊"
+role: Doctor of Philosophy
+highlight_name: true
+avatar_filename: me.jpg
+bio: |
+  I received my Ph.D. degree from the College of Information Science and Engineering at Northeastern University, China, under the supervision of Prof. [Min Huang](http://www.ise.neu.edu.cn/2019/0109/c5989a8236/page.htm). During my doctoral studies, I was also a visiting Ph.D. student at the Institute of Operations Research and Analytics, National University of Singapore, supervised by Prof. [Chung-Piaw Teo](https://iora.nus.edu.sg/people-p/teo-chung-piaw/). My research focuses on data-driven optimization, distributionally robust optimization, and stochastic modeling, with applications in supply chain management, such as inventory optimization, supply chain network design, logistics planning.   
+  I am currently on the 2026 academic job market.
 
+affiliations:
+  - name: Northeastern University, China
+    url: https://english.neu.edu.cn/
+
+links:
+  - icon: at-symbol
+    url: mailto:sjiang@stumail.neu.edu.cn
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=zh-CN&user=2xokQLsAAAAJ
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Songchen-Jiang
+
+interests:
+  - Data-driven Optimization
+  - Supply Chain Management
+  - Stochastic Modeling
