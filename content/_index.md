@@ -3,10 +3,6 @@ title: ''
 summary: ''
 date: 2026-06-21
 type: landing
-
-design:
-  spacing:
-    padding: ['0.5rem', '0', '0.5rem', '0']
   
 sections:
   - block: resume-biography-3
