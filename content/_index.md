@@ -6,7 +6,7 @@ type: landing
 
 design:
   spacing:
-    padding: ['1rem', '0', '1rem', '0']
+    padding: ['0.5rem', '0', '0.5rem', '0']
   
 sections:
   - block: resume-biography-3
