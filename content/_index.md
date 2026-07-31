@@ -3,10 +3,7 @@ title: ''
 summary: ''
 date: 2026-06-21
 type: landing
-
-design:
   
-
 sections:
   - block: resume-biography-3
     content:
