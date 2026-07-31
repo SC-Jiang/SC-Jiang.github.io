@@ -3,6 +3,10 @@ title: ''
 summary: ''
 date: 2026-06-21
 type: landing
+
+design:
+  spacing:
+    padding: ['1rem', '0', '1rem', '0']
   
 sections:
   - block: resume-biography-3
@@ -55,7 +59,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      spacing: '1rem'
+      spacing:
+        padding: ['1rem', '0', '1rem', '0']
   - block: collection
     id: conference-papers
     content:
@@ -69,7 +74,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      spacing: '1rem'
+      spacing:
+        padding: ['1rem', '0', '1rem', '0']
   - block: collection
     id: working-papers
     content:
@@ -83,7 +89,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      spacing: '1rem'
+      spacing:
+        padding: ['1rem', '0', '1rem', '0']
     
   - block: markdown
     id: service
