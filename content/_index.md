@@ -94,7 +94,7 @@ sections:
       title: '🎓 Academic Service'
       subtitle: ''
       text: |-
-        📰 **Reviewer** — I service as a reviewer for journals such as Humanities and Social Sciences Communications, Computers & Industrial Engineering, Information Processing and Management.
+        📰 **Reviewer** — I service as a reviewer for journals such as Humanities and Social Sciences Communications, International Journal of Production Economics, Omega, Computers & Industrial Engineering, Information Processing and Management.
 
         🎤 **Invited Talks** — Recent invited talks include *Distributionally Robust Inventory Management with Independent Demands* (ISCOM 2025 @ Wuxi, Jiangsu) and *Stochastic Modeling and Operations Management of Platform Logistics under Cooperation and Competition* (POMS-China 2026 @ Xi'an, Shaanxi).
     design:
