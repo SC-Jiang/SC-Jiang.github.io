@@ -64,7 +64,13 @@ education:
     end: 2019-06-30
     summary: ''
 
-experience: []
+experience:
+  - role: 助理教授
+    org: 西安交通大学
+    icon: brands/xjtu
+    start: 2026-08-27
+    summary: |
+      [管理学院](https://som.xjtu.edu.cn/).
 
 skills:
   - name: 研究
