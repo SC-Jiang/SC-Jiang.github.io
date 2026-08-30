@@ -1,0 +1,121 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Songchen Jiang
+  given: Songchen
+  family: Jiang
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: "📊"
+role: Assistant Professor
+bio: |
+  I will soon join the School of Management at Xi’an Jiaotong University. I received my Ph.D. degree from the College of Information Science and Engineering at Northeastern University, China, under the supervision of Prof. [Min Huang](http://www.ise.neu.edu.cn/2019/0109/c5989a8236/page.htm). During my doctoral studies, I was also a visiting Ph.D. student at the Institute of Operations Research and Analytics, National University of Singapore, supervised by Prof. [Chung-Piaw Teo](https://iora.nus.edu.sg/people-p/teo-chung-piaw/). My research focuses on data-driven optimization, distributionally robust optimization, and stochastic modeling, with applications in supply chain management, such as inventory optimization, supply chain network design, logistics planning.   
+
+affiliations:
+  - name: Xi'an Jiaotong University
+    url: https://som.xjtu.edu.cn/
+
+links:
+  - icon: at-symbol
+    url: mailto:sjiang@stumail.neu.edu.cn
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=zh-CN&user=2xokQLsAAAAJ
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Songchen-Jiang
+
+interests:
+  - Data-driven Optimization
+  - Supply Chain Management
+  - Stochastic Modeling
+
+education:
+  - degree: Ph.D. in Control Science and Engineering
+    institution: College of Information Science and Engineering, Northeastern University (CN)
+    icon: brands/neu
+    start: 2021-09-01
+    end: 2026-06-30
+    summary: |
+      Supervisor: Prof. Min Huang  
+      Dissertation: Research on Data-Driven Supply Chain Network Optimization with Demand Surges
+  - degree: Visiting Ph.D. Student in Statistics and Operational Research
+    institution: Institute of Operations Research and Analytics, National University of Singapore
+    icon: brands/nus
+    start: 2022-12-01
+    end: 2024-12-31
+    summary: |
+      Supervisor: Prof. Chung-Piaw Teo
+  - degree: M.Sc. in Systems Engineering
+    institution: College of Information Science and Engineering, Northeastern University (CN)
+    icon: brands/neu
+    start: 2019-09-01
+    end: 2021-06-30
+    summary: |
+      Supervisor: Prof. Min Huang
+  - degree: B.Eng. in Automation
+    institution: College of Information Science and Engineering, Northeastern University (CN)
+    icon: brands/neu
+    start: 2015-09-01
+    end: 2019-06-30
+    summary: ''
+
+experience: []
+
+skills:
+  - name: Research
+    items:
+      - label: Distributionally Robust Optimization
+        level: 5
+      - label: Stochastic Modeling
+        level: 5
+      - label: Supply Chain Analytics
+        level: 5
+      - label: Mixed-integer Optimization
+        level: 4
+  - name: Tools
+    items:
+      - label: Python
+        level: 4
+      - label: MATLAB
+        level: 4
+      - label: LaTeX
+        level: 5
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Professional
+
+awards:
+  - title: The ISCOM 2025 Best Conference Paper
+    awarder: ISCOM
+    date: "2025-12-01"
+    summary: ''
+    icon: hero/trophy
+  - title: The 2025 CSAMSE Annual Conference Best Practice Award, Third Prize
+    awarder: CSAMSE
+    date: "2025-07-01"
+    summary: ''
+    icon: hero/trophy
+  - title: National Scholarship for Postgraduates
+    awarder: Ministry of Education, China
+    date: "2020-10-01"
+    summary: ''
+    icon: hero/trophy
+  - title: Excellence Award of the National College Student Innovation and Entrepreneurship Training Program
+    awarder: Ministry of Education, China
+    date: "2018-09-01"
+    summary: ''
+    icon: hero/trophy
+  - title: Silver Award of the Silicon Valley International Invention Festival
+    awarder: SVIIF
+    date: "2018-07-01"
+    summary: ''
+    icon: hero/trophy
