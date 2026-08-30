@@ -127,7 +127,7 @@ sections:
       text: |-
         Feel free to reach out if you would like to discuss research ideas or collaborations.
 
-        ✉️ **Email:** [sjiang@stumail.neu.edu.cn](mailto:sjiang@stumail.neu.edu.cn)
+        ✉️ **Email:** [sjiang@xjtu.edu.cn](mailto:sjiang@xjtu.edu.cn)
 
         🎓 **Google Scholar:** [scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=2xokQLsAAAAJ)
 
