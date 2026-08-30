@@ -124,7 +124,7 @@ sections:
       text: |-
         欢迎就研究问题或合作想法与我联系。
     
-        ✉️ **Email:** [sjiang@xjtu.edu.cn](mailto:sjiang@xjtu.edu.cn)
+        ✉️ **Email:** [scjiang@xjtu.edu.cn](mailto:scjiang@xjtu.edu.cn)
 
         🎓 **Google Scholar:** [scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=2xokQLsAAAAJ)
 
